@@ -1,1 +1,2 @@
 console.log("Hello Secure CI/CD");
+const API_KEY = "sk_test_1234567";
